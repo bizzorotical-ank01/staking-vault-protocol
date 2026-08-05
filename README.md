@@ -136,4 +136,3 @@ This is a learning-grade implementation. A production protocol would:
 Built by **Amna Nasir** as part of a smart-contract security and DeFi engineering journey — applying a security-first mindset to a real multi-contract protocol.
 
 If you have questions or suggestions, let's connect. GOOD LUCK BUDDY!
-# staking-vault-protocol
